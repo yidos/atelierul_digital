@@ -6,38 +6,38 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->C:\Users\raduq\AndroidStudioProjects\AndroidTraining\MyApplication01\app\src\main\AndroidManifest.xml
+8-->D:\Development\atelierul_digital\MyApplication01\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->C:\Users\raduq\AndroidStudioProjects\AndroidTraining\MyApplication01\app\src\main\AndroidManifest.xml
+9-->D:\Development\atelierul_digital\MyApplication01\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\raduq\AndroidStudioProjects\AndroidTraining\MyApplication01\app\src\main\AndroidManifest.xml:5:5-19:19
+11-->D:\Development\atelierul_digital\MyApplication01\app\src\main\AndroidManifest.xml:5:5-19:19
 12        android:allowBackup="true"
-12-->C:\Users\raduq\AndroidStudioProjects\AndroidTraining\MyApplication01\app\src\main\AndroidManifest.xml:6:9-35
+12-->D:\Development\atelierul_digital\MyApplication01\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 13-->[androidx.core:core:1.1.0] C:\Users\raduq\.gradle\caches\transforms-2\files-2.1\da95e0dd41fd0c634661df2a0f122634\core-1.1.0\AndroidManifest.xml:24:18-86
 14        android:icon="@mipmap/ic_launcher"
-14-->C:\Users\raduq\AndroidStudioProjects\AndroidTraining\MyApplication01\app\src\main\AndroidManifest.xml:7:9-43
+14-->D:\Development\atelierul_digital\MyApplication01\app\src\main\AndroidManifest.xml:7:9-43
 15        android:label="@string/app_name"
-15-->C:\Users\raduq\AndroidStudioProjects\AndroidTraining\MyApplication01\app\src\main\AndroidManifest.xml:8:9-41
+15-->D:\Development\atelierul_digital\MyApplication01\app\src\main\AndroidManifest.xml:8:9-41
 16        android:roundIcon="@mipmap/ic_launcher_round"
-16-->C:\Users\raduq\AndroidStudioProjects\AndroidTraining\MyApplication01\app\src\main\AndroidManifest.xml:9:9-54
+16-->D:\Development\atelierul_digital\MyApplication01\app\src\main\AndroidManifest.xml:9:9-54
 17        android:supportsRtl="true"
-17-->C:\Users\raduq\AndroidStudioProjects\AndroidTraining\MyApplication01\app\src\main\AndroidManifest.xml:10:9-35
+17-->D:\Development\atelierul_digital\MyApplication01\app\src\main\AndroidManifest.xml:10:9-35
 18        android:theme="@style/AppTheme" >
-18-->C:\Users\raduq\AndroidStudioProjects\AndroidTraining\MyApplication01\app\src\main\AndroidManifest.xml:11:9-40
+18-->D:\Development\atelierul_digital\MyApplication01\app\src\main\AndroidManifest.xml:11:9-40
 19        <activity android:name="com.raduqg.siit.myapplication.MainActivity" >
-19-->C:\Users\raduq\AndroidStudioProjects\AndroidTraining\MyApplication01\app\src\main\AndroidManifest.xml:12:9-18:20
-19-->C:\Users\raduq\AndroidStudioProjects\AndroidTraining\MyApplication01\app\src\main\AndroidManifest.xml:12:19-47
+19-->D:\Development\atelierul_digital\MyApplication01\app\src\main\AndroidManifest.xml:12:9-18:20
+19-->D:\Development\atelierul_digital\MyApplication01\app\src\main\AndroidManifest.xml:12:19-47
 20            <intent-filter>
-20-->C:\Users\raduq\AndroidStudioProjects\AndroidTraining\MyApplication01\app\src\main\AndroidManifest.xml:13:13-17:29
+20-->D:\Development\atelierul_digital\MyApplication01\app\src\main\AndroidManifest.xml:13:13-17:29
 21                <action android:name="android.intent.action.MAIN" />
-21-->C:\Users\raduq\AndroidStudioProjects\AndroidTraining\MyApplication01\app\src\main\AndroidManifest.xml:14:17-69
-21-->C:\Users\raduq\AndroidStudioProjects\AndroidTraining\MyApplication01\app\src\main\AndroidManifest.xml:14:25-66
+21-->D:\Development\atelierul_digital\MyApplication01\app\src\main\AndroidManifest.xml:14:17-69
+21-->D:\Development\atelierul_digital\MyApplication01\app\src\main\AndroidManifest.xml:14:25-66
 22
 23                <category android:name="android.intent.category.LAUNCHER" />
-23-->C:\Users\raduq\AndroidStudioProjects\AndroidTraining\MyApplication01\app\src\main\AndroidManifest.xml:16:17-77
-23-->C:\Users\raduq\AndroidStudioProjects\AndroidTraining\MyApplication01\app\src\main\AndroidManifest.xml:16:27-74
+23-->D:\Development\atelierul_digital\MyApplication01\app\src\main\AndroidManifest.xml:16:17-77
+23-->D:\Development\atelierul_digital\MyApplication01\app\src\main\AndroidManifest.xml:16:27-74
 24            </intent-filter>
 25        </activity>
 26    </application>

@@ -1,4 +1,4 @@
-#Mon Apr 20 16:57:51 EEST 2020
-base.0=C\:\\Users\\raduq\\AndroidStudioProjects\\AndroidTraining\\MyApplication01\\app\\build\\intermediates\\dex\\release\\out\\classes.dex
+#Tue Apr 28 17:54:31 EEST 2020
+base.0=D\:\\Development\\atelierul_digital\\MyApplication01\\app\\build\\intermediates\\dex\\release\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

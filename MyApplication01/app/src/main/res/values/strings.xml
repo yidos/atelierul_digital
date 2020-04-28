@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="orange_text">This is an orange TextView</string>
+    <string name="green_text">This is a green TextView</string>
+    <string name="blue_text">This is a blue TextView</string>
+
+    <string name="blue_button">This is a blue Button</string>
+    <string name="green_button">This is a green Button</string>
+
+    <string name="hint_text">This is an EditText</string>
+    <string name="hint_new_text">This is a new EditText</string>
+
+    <string name="checkbox_text">Notify me :)</string>
+    <string name="switch_text">Auto backup</string>
+
+    <string name="checkbox_yes">YES</string>
+    <string name="checkbox_no">NO</string>
 </resources>

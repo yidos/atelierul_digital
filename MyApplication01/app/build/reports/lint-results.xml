@@ -12,7 +12,7 @@
         errorLine1="    testImplementation &apos;junit:junit:4.12&apos;"
         errorLine2="    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\raduq\AndroidStudioProjects\AndroidTraining\MyApplication01\app\build.gradle"
+            file="D:\Development\atelierul_digital\MyApplication01\app\build.gradle"
             line="31"
             column="5"/>
     </issue>
@@ -30,9 +30,45 @@
         errorLine1="    &lt;application"
         errorLine2="     ~~~~~~~~~~~">
         <location
-            file="C:\Users\raduq\AndroidStudioProjects\AndroidTraining\MyApplication01\app\src\main\AndroidManifest.xml"
+            file="D:\Development\atelierul_digital\MyApplication01\app\src\main\AndroidManifest.xml"
             line="5"
             column="6"/>
+    </issue>
+
+    <issue
+        id="IconXmlAndPng"
+        severity="Warning"
+        message="The following images appear both as density independent `.xml` files and as bitmap files: src\\main\\res\\drawable-anydpi\\test.xml, src\\main\\res\\drawable-hdpi\\test.png"
+        category="Usability:Icons"
+        priority="7"
+        summary="Icon is specified both as `.xml` file and as a bitmap"
+        explanation="If a drawable resource appears as an `.xml` file in the `drawable/` folder, it&apos;s usually not intentional for it to also appear as a bitmap using the same name; generally you expect the drawable XML file to define states and each state has a corresponding drawable bitmap.">
+        <location
+            file="D:\Development\atelierul_digital\MyApplication01\app\src\main\res\drawable-xxhdpi\test.png"/>
+        <location
+            file="D:\Development\atelierul_digital\MyApplication01\app\src\main\res\drawable-xhdpi\test.png"/>
+        <location
+            file="D:\Development\atelierul_digital\MyApplication01\app\src\main\res\drawable-mdpi\test.png"/>
+        <location
+            file="D:\Development\atelierul_digital\MyApplication01\app\src\main\res\drawable-hdpi\test.png"/>
+        <location
+            file="D:\Development\atelierul_digital\MyApplication01\app\src\main\res\drawable-anydpi\test.xml"/>
+    </issue>
+
+    <issue
+        id="ContentDescription"
+        severity="Warning"
+        message="Missing `contentDescription` attribute on image"
+        category="Accessibility"
+        priority="3"
+        summary="Image without `contentDescription`"
+        explanation="Non-textual widgets like ImageViews and ImageButtons should use the `contentDescription` attribute to specify a textual description of the widget such that screen readers and other accessibility tools can adequately describe the user interface.&#xA;&#xA;Note that elements in application screens that are purely decorative and do not provide any content or enable a user action should not have accessibility content descriptions. In this case, just suppress the lint warning with a tools:ignore=&quot;ContentDescription&quot; attribute.&#xA;&#xA;Note that for text fields, you should not set both the `hint` and the `contentDescription` attributes since the hint will never be shown. Just set the `hint`. See http://developer.android.com/guide/topics/ui/accessibility/checklist.html#special-cases."
+        errorLine1="        &lt;ImageView"
+        errorLine2="         ~~~~~~~~~">
+        <location
+            file="D:\Development\atelierul_digital\MyApplication01\app\src\main\res\layout\activity_main.xml"
+            line="62"
+            column="10"/>
     </issue>
 
     <issue
@@ -46,8 +82,8 @@
         errorLine1="        android:text=&quot;Happy Birthday to my wife!&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\raduq\AndroidStudioProjects\AndroidTraining\MyApplication01\app\src\main\res\layout\activity_main.xml"
-            line="13"
+            file="D:\Development\atelierul_digital\MyApplication01\app\src\main\res\layout\activity_main.xml"
+            line="159"
             column="9"/>
     </issue>
 

@@ -3,4 +3,13 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+
+<!--    RRGGBB-->
+<!--    AARRGGBB-->
+<!--    CTRL + / -->
+    <color name="orange">#FFFFA500</color>
+    <color name="green">#7F008000</color>
+    <color name="blue">#7F0000FF</color>
+    <color name="pink">#FF60D7</color>
+
 </resources>
