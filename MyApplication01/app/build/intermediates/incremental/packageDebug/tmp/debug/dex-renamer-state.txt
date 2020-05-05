@@ -1,7 +1,0 @@
-#Tue Apr 28 17:54:16 EEST 2020
-base.0=D\:\\Development\\atelierul_digital\\MyApplication01\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
-path.1=classes.dex
-renamed.1=classes2.dex
-path.0=classes.dex
-renamed.0=classes.dex
-base.1=D\:\\Development\\atelierul_digital\\MyApplication01\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex

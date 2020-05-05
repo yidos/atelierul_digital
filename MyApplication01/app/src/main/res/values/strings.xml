@@ -15,4 +15,37 @@
 
     <string name="checkbox_yes">YES</string>
     <string name="checkbox_no">NO</string>
+
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="login">LOGIN</string>
+    <string name="submit">SUBMIT</string>
+    <string name="accept_t_amp_c"><![CDATA[Accept T&C]]></string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget lectus ipsum. Donec
+        aliquet ipsum vitae urna aliquet viverra. Nulla iaculis ligula mattis aliquet maximus.
+        Maecenas gravida leo a libero imperdiet, eget hendrerit lectus suscipit.
+        Vestibulum porttitor auctor ipsum, ac dictum augue sollicitudin at. Suspendisse at
+        convallis velit, ac dictum quam. Aliquam erat volutpat. Suspendisse placerat gravida dolor.
+        Mauris leo erat, varius nec ex non, viverra aliquet ligula. Sed tincidunt nunc nisi, ut
+        faucibus felis vehicula eu. Fusce a nisi posuere, varius quam eu, tempus justo.
+
+Aliquam ut pulvinar nisi, non aliquet dui. Aliquam et fringilla justo, vel gravida turpis. Curabitur
+        sagittis laoreet ipsum, in pharetra est facilisis quis. Morbi cursus, sem sit amet tempor
+        feugiat, turpis ligula pharetra ante, nec euismod neque tortor sit amet enim. Cras nibh ex,
+        auctor eget tempus blandit, vestibulum vel elit. Pellentesque habitant morbi tristique senectus
+        et netus et malesuada fames ac turpis egestas. Nunc auctor felis vel lacinia luctus. Suspendisse
+        felis turpis, vestibulum at nibh eget, mollis ornare quam. Etiam placerat orci quam, vel eleifend
+        nibh iaculis accumsan. Donec sodales nibh felis, in placerat justo varius et. Donec at mauris
+        accumsan, pharetra massa a, sodales ligula. Cras elit ex, venenatis in urna et, lacinia pulvinar
+        ligula. Mauris varius ex eget faucibus condimentum. Nullam massa sapien, semper sit amet placerat
+        et, elementum et magna. Quisque faucibus est tincidunt, iaculis metus sit amet, maximus tortor.
+
+Integer ut ex at neque tempor ornare. Maecenas fringilla velit eu diam maximus molestie. Vivamus
+        finibus ut ex ac maximus. Donec lobortis arcu leo. Maecenas quis neque purus. Maecenas justo
+        lorem, rutrum in vestibulum sit amet, rutrum sit amet orci. Vivamus in varius ex, nec tristique orci.
+        Praesent ut urna vel nunc efficitur consectetur quis eu ligula. Donec tempus malesuada sem et viverra.
+        Phasellus non tristique elit.
+    </string>
 </resources>
